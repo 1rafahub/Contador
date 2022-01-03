@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.cabecalho {
+    text-align: center;
+    margin-top: 150px;
+   
+}
+
+.titulo {
+    color: chartreuse;
+}
+
+.subtitulo {
+    color: darkgray;
+}
